@@ -1,2 +1,1 @@
-#!/bin/bash
-why?
+#!/bin/bash why?
