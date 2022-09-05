@@ -1,2 +1,2 @@
 #!/bin/bash
-uniq u | sort
+find . type w -print | sort | uniq u
